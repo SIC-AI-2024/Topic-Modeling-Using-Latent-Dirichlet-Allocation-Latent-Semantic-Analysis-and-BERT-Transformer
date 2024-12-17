@@ -1,7 +1,9 @@
 
 
 1. install the dependencies: pip install -r requirements.txt
-2. to run the app simply run streamlit run app1.py (but make sure to install streamlit first and load the models.)
+2. run: git lfs pull --> to access large files tracked by git-lfs
+3. to run the app simply run streamlit run app1.py (but make sure to install streamlit first and load the models.)
+
 
 # Topic Modeling Using Latent Dirichlet Allocation, Latent Semantic Analysis, and BERT Transformer & Its Applications
 
